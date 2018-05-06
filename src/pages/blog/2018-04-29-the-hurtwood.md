@@ -1,9 +1,10 @@
 ---
-templateKey: 'blog-post'
-title: 'The Hurtwood'
+templateKey: blog-post
+title: The Hurtwood
 date: 2018-04-29T15:04:10.000Z
 description: >-
-  A stirring walk in this stunning Surrey Hills woodland certainly got the wordsmith in me engaged with my environment!
+  A stirring walk in this stunning Surrey Hills woodland certainly got the
+  wordsmith in me engaged with my environment!
 tags:
   - surrey
   - surrey hills
@@ -11,6 +12,7 @@ tags:
   - photography
   - poetry
 ---
+![The meandering path](/img/img_1999.jpg)
 
 > Silence. No words. No noise. Silence punctuated just by the whisper of the wind. The chatter of the birds. A woodpecker’s knock-knock chirrup echoes through the trees. Full stop, silence restored. I stand witness to Nature’s wonderful orchestra. Not a fellow human to be seen. The forest becomes my own.  I look up to see a buzzard circling above the trees, keeping a watchful eye on his world below. The verdant green intensity of Spring’s juvenile glory breaking the light starved day. The petrichor of the damp  bark detritus that forms the carpet upon which my foot-steps fall. I hear my breath. I feel revitalised. My soul cleansed. I revel in the reward that the great outdoors keeps on giving.
 
